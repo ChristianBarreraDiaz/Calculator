@@ -6,7 +6,7 @@ This app is made to apply the functions Add, Subtract, Divide and Multiply.
 
 It shows the result of the operation.
 
-You can try this App here:  [Web App](https://bucolic-jelly-62bed9.netlify.app)
+You can try this App here:  [Web App](https://relaxed-kulfi-0f17d2.netlify.app)
 
 ## Features
 
